@@ -6,3 +6,11 @@
 2023-05-14 20:05:966 INFO  LoginPage :41 - Enter password : [[ChromeDriver: chrome on WINDOWS (78b3b7e2c6b5da0ddee347a8c3ecf54f)] -> id: password]
 2023-05-14 20:05:55 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (78b3b7e2c6b5da0ddee347a8c3ecf54f)] -> id: login-button]
 2023-05-14 20:05:160 INFO  MainPage :23 - Number of products displayed : 
+2023-05-14 20:05:795 INFO  LoginPage :35 - Enter Username : [[ChromeDriver: chrome on WINDOWS (590645f4cc8afb6785f5b421718f8f88)] -> id: user-name]
+2023-05-14 20:05:979 INFO  LoginPage :41 - Enter password : [[ChromeDriver: chrome on WINDOWS (590645f4cc8afb6785f5b421718f8f88)] -> id: password]
+2023-05-14 20:05:66 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (590645f4cc8afb6785f5b421718f8f88)] -> id: login-button]
+2023-05-14 20:05:164 INFO  LoginPage :54 - Get actual text : [[ChromeDriver: chrome on WINDOWS (590645f4cc8afb6785f5b421718f8f88)] -> xpath: //span[@class='title']]
+2023-05-14 20:05:738 INFO  LoginPage :35 - Enter Username : [[ChromeDriver: chrome on WINDOWS (0a4621ca5c852bc15e19ed387b4c0150)] -> id: user-name]
+2023-05-14 20:05:887 INFO  LoginPage :41 - Enter password : [[ChromeDriver: chrome on WINDOWS (0a4621ca5c852bc15e19ed387b4c0150)] -> id: password]
+2023-05-14 20:05:971 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (0a4621ca5c852bc15e19ed387b4c0150)] -> id: login-button]
+2023-05-14 20:05:37 INFO  MainPage :23 - Number of products displayed : 
